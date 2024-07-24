@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Gmusic",
-    "slug": "Gmusic",
+    "slug": "gmusic",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0a576624-1393-48ad-a269-194c45c8cbea"
+      }
+    },
+    "owner": "rohanv"
   }
 }
